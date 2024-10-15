@@ -104,33 +104,6 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Contact Form (if applicable) */
-form {
-    display: flex;
-    flex-direction: column;
-}
-
-form input, form textarea {
-    padding: 10px;
-    margin: 10px 0;
-    border-radius: 5px;
-    border: 1px solid #ccc;
-}
-
-form button {
-    padding: 10px;
-    background-color: #ffb6b9;
-    border: none;
-    color: #fff;
-    font-size: 1.1em;
-    border-radius: 5px;
-    cursor: pointer;
-}
-
-form button:hover {
-    background-color: #ef476f;
-}
-
 /* Responsive Design */
 @media only screen and (max-width: 768px) {
     /* Adjust header for tablets and smaller screens */
